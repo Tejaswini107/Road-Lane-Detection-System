@@ -18,3 +18,10 @@ This project detects and highlights road lane lines in images and videos using c
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tejaswini107/Road-Lane-Detection-System.git
+2. Install required dependencies:
+   ```bash
+   pip install opencv-python
+
+3. Run the lane detection script on images or videos:
+    ```bash
+   python lane_detection.py
